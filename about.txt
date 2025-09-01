@@ -1,0 +1,3 @@
+Name = N.jagan
+Course = bsc computers 
+about Git hub = its for my studies 
